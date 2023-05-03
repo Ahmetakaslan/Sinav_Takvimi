@@ -6,7 +6,7 @@ A new Flutter project.
 # if you want download
 
 
-<a href="https://github.com/Ahmetakaslan/BMI-Calculator/raw/master/app-release.apk" download="YOUR_FILE_NAME.apk"><img src="down.png" alt="Download the app" style="width:100px;height:70px;"></a>
+<a href="https://github.com/Ahmetakaslan/Sinav_Takvimi/blob/master/app-release.apk" download="YOUR_FILE_NAME.apk"><img src="down.png" alt="Download the app" style="width:100px;height:70px;"></a>
 
 ## Getting Started
 

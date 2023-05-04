@@ -14,10 +14,7 @@ A new Flutter project.
 
 <img src="https://user-images.githubusercontent.com/95686166/236202131-97b3a4ce-cbd2-4af7-ada9-4135d3be8340.jpeg" width="350" height="700">
 
-![resim3](https://user-images.githubusercontent.com/95686166/236203003-13b785dd-ddf5-4967-842f-55cab9e7d4b8.jpeg)
-![resim2](https://user-images.githubusercontent.com/95686166/236203010-9c22dbc9-db5e-4bdd-9678-5cea7d9e73c0.jpeg)
-![resim1](https://user-images.githubusercontent.com/95686166/236203020-a1ef3c1c-cb22-4214-ba8c-4ae5169051e3.jpeg)
-![resim4](https://user-images.githubusercontent.com/95686166/236203032-7cc1d097-4bbd-4084-b6ea-bc8f28f52d1d.jpeg)
+
 
 ## Getting Started
 
